@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Tutti i dataset di grandi dimensioni
+*.csv
+datasets/raw/
+data/raw/
+
+# File di sistema e IDE
+.DS_Store
+Thumbs.db
+.vscode/
